@@ -2,13 +2,13 @@ bootstrap-knockout-jade-boilerplate
 ===================================
 
 ###A simple boilerplate for an SPA using:
-* Bootstrap (CSS framework)
-* Knockout.js (MVVM framework)
-* Sammy.Js (router)
-* Jade (HTML preprocessor)
-* LESS (CSS preprocessor)
+* [Bootstrap (CSS framework)] (http://getbootstrap.com/)
+* [Knockout.js (MVVM framework)] (http://knockoutjs.com/)
+* [Sammy.Js (router)] (http://sammyjs.org/)
+* [Jade (HTML preprocessor)] (http://jade-lang.com/)
+* [LESS (CSS preprocessor)] (http://lesscss.org/)
 
 ###Tools used for building and package managing: 
-* Grunt
-* Yo
-* Bower
+* [Grunt] (http://gruntjs.com/)
+* [Yeoman] (http://yeoman.io/)
+* [Bower] (http://bower.io/)
