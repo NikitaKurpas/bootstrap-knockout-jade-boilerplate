@@ -222,7 +222,7 @@ module.exports = function (grunt) {
             app: {
                 src: ['<%= config.app %>/index.html'],
                 ignorePath: '<%= config.app %>/',
-                exclude: ['bootstrap.css']
+                exclude: ['bootstrap.css', 'jquery.scrollTo.min.js']
             }
         },
 

@@ -6,7 +6,9 @@
     "jquery": "~1.11.0",
     "jquery.scrollTo": "~1.4.11",
     "knockout.js": "~3.0.0",
-    "bootstrap": "~3.1.1"
+    "bootstrap": "~3.1.1",
+    "sammy": "~0.7.5",
+    "pace": "~0.5.1"
   },
   "devDependencies": {}
 }

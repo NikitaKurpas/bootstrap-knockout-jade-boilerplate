@@ -1,1 +1,3 @@
-console.log('\'Allo \'Allo!');
+/**
+ The main file. This is loaded after init file
+ */
