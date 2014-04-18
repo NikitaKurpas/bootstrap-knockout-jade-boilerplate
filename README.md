@@ -12,3 +12,7 @@ bootstrap-knockout-jade-boilerplate
 * [Grunt] (http://gruntjs.com/)
 * [Yeoman] (http://yeoman.io/)
 * [Bower] (http://bower.io/)
+
+###Usage
+You need to have the build tools installed in order to use this boilerplate correctly.
+Then just clone this repo and your good to go!
