@@ -7,6 +7,7 @@ bootstrap-knockout-jade-boilerplate
 * Sammy.Js (router)
 * Jade (HTML preprocessor)
 * LESS (CSS preprocessor)
+
 ###Tools used for building and package managing: 
 * Grunt
 * Yo
