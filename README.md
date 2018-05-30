@@ -15,4 +15,4 @@ bootstrap-knockout-jade-boilerplate
 
 ### Usage
 You need to have the build tools installed in order to use this boilerplate correctly.
-Then just clone this repo and your good to go!
+Then just clone this repo and you're good to go!
